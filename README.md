@@ -1,8 +1,8 @@
-![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Le0_X8?style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxQr6aWk-oqXDk3Q8ciDcoQ?style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_lJq0mAgMytaLX7mgqUtSw?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers)
+![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=total stars)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Le0_X8?style=for-the-badge&logo=reddit&label=karma)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxQr6aWk-oqXDk3Q8ciDcoQ?style=for-the-badge&logo=youtube&label=subscribers (dev))
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_lJq0mAgMytaLX7mgqUtSw?style=for-the-badge&logo=youtube&label=subscribers (games))
 
 # Hi! <img src="https://cdn.le0x8.de/chess/icons/book" style="height: 1em; transform: translateY(0.2em);" />
 
