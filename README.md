@@ -1,5 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers)
-![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=total stars)
+![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Le0_X8?style=for-the-badge&logo=reddit&label=karma)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxQr6aWk-oqXDk3Q8ciDcoQ?style=for-the-badge&logo=youtube&label=subscribers (dev))
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_lJq0mAgMytaLX7mgqUtSw?style=for-the-badge&logo=youtube&label=subscribers (games))
