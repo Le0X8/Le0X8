@@ -1,3 +1,4 @@
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Le0X8&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers&logoColor=white)
 ![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars&logoColor=white)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Le0_X8?style=for-the-badge&logo=reddit&label=karma&logoColor=white)
