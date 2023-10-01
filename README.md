@@ -8,7 +8,7 @@
 
 I'm LeoX DEV :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 1em; transform: translateY(0.2em);" />
 
-Visit my website: [leox.dev](https://leox.dev/)
+Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
 
 ---
 
@@ -31,16 +31,20 @@ Visit my website: [leox.dev](https://leox.dev/)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
 </p>
 
+<p align="right">
+    <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
+</p>
+
 ---
 
-Blog: [my.name.is.leox.dev](https://my.name.is.leox.dev/)
+Blog: [my.name.is.leox.dev](https://my.name.is.leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/best" style="height: 1em; transform: translateY(0.2em);" />
 
-Reddit: [u/Le0_X8](https://www.reddit.com/u/Le0_X8)
+Reddit: [u/Le0_X8](https://www.reddit.com/u/Le0_X8) <img src="https://cdn.le0x8.de/chess/icons/mistake" style="height: 1em; transform: translateY(0.2em);" />
 
-Instagram: [@leoxdevx](https://www.instagram.com/leoxdevx/) (public), [@le0_x8](https://www.instagram.com/le0_x8/) (private)
+Instagram: [@leoxdevx](https://www.instagram.com/leoxdevx/) (public), [@le0_x8](https://www.instagram.com/le0_x8/) (private) <img src="https://cdn.le0x8.de/chess/icons/best" style="height: 1em; transform: translateY(0.2em);" />
 
-YouTube: [LeoX DEV](https://www.youtube.com/@leoxdevx) (coding stuff), [Le0_X8](https://www.youtube.com/@le0x8) (gaming stuff)
+YouTube: [LeoX DEV](https://www.youtube.com/@leoxdevx) (coding stuff), [Le0_X8](https://www.youtube.com/@le0x8) (gaming stuff) <img src="https://cdn.le0x8.de/chess/icons/great_find" style="height: 1em; transform: translateY(0.2em);" />
 
-Discord: [@le0_x8](https://discord.com/channels/@me/le0_x8/)
+Discord: [@le0_x8](https://discord.com/channels/@me/le0_x8/) <img src="https://cdn.le0x8.de/chess/icons/blunder" style="height: 1em; transform: translateY(0.2em);" />
 
 ###### sorry for the chess icons <img src="https://cdn.le0x8.de/chess/icons/incorrect" style="height: 1em; transform: translateY(0.2em);" />
