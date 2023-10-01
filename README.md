@@ -2,8 +2,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers&logoColor=white)
 ![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars&logoColor=white)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Le0_X8?style=for-the-badge&logo=reddit&label=karma&logoColor=white)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxQr6aWk-oqXDk3Q8ciDcoQ?style=for-the-badge&logo=youtube&label=subscribers%20(dev)&logoColor=white)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_lJq0mAgMytaLX7mgqUtSw?style=for-the-badge&logo=youtube&label=subscribers%20(games)&logoColor=white)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxQr6aWk-oqXDk3Q8ciDcoQ?style=for-the-badge&logo=youtube&label=subscribers%20(1)&logoColor=white)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_lJq0mAgMytaLX7mgqUtSw?style=for-the-badge&logo=youtube&label=subscribers%20(2)&logoColor=white)
 
 # Hi! <img src="https://cdn.le0x8.de/chess/icons/book" style="height: 1em; transform: translateY(0.2em);" />
 
