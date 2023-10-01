@@ -26,6 +26,8 @@ Visit my website: [leox.dev](https://leox.dev/)
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0X8&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&bg_color=ffffff">
     </picture>
 </p>
+<!-- Remind me to add this later: https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
 
 ---
 
