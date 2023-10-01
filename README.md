@@ -12,6 +12,10 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 
 ---
 
+<p align="right">
+    <img src="https://cdn.le0x8.de/chess/icons/brilliant" style="height: 1em; transform: translateY(0.2em);" />
+</p>
+
 <p align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=Le0X8&show_icons=true&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&hide_title=true&show=discussions_started,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
@@ -29,10 +33,6 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 <!-- Remind me to add this later: https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card -->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
-</p>
-
-<p align="right">
-    <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
 </p>
 
 ---
