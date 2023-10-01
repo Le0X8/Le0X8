@@ -11,6 +11,7 @@ I'm LeoX DEV :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 
 Visit my website: [leox.dev](https://leox.dev/)
 
 ---
+
 <p align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=Le0X8&show_icons=true&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&hide_title=true&show=discussions_started,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
@@ -25,6 +26,7 @@ Visit my website: [leox.dev](https://leox.dev/)
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0X8&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&bg_color=ffffff">
     </picture>
 </p>
+
 ---
 
 Blog: [my.name.is.leox.dev](https://my.name.is.leox.dev/)
