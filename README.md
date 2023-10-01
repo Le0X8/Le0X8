@@ -27,7 +27,9 @@ Visit my website: [leox.dev](https://leox.dev/)
     </picture>
 </p>
 <!-- Remind me to add this later: https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
+</p>
 
 ---
 
