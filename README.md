@@ -36,7 +36,7 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 </p>
 <p align="center">
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0e7c80&custom_title=My%20coding%20time" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=ffffff&custom_title=My%20coding%20time" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=My%20coding%20time" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=My%20coding%20time&bg_color=ffffff">
     </picture>
