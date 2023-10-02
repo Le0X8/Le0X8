@@ -31,7 +31,13 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0X8&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&bg_color=ffffff">
     </picture>
 </p>
-<!-- Remind me to add this later: https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card -->
+<p align="center">
+    <picture>
+        <source srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Le0X8&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c](https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&custom_title=My%20coding%20time)" media="(prefers-color-scheme: light)" />
+        <source srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Le0X8&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c](https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=My%20coding%20time)" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=My%20coding%20time&bg_color=ffffff">
+    </picture>
+</p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=0e7c80&ring=108c92&fire=0e7c80&currStreakNum=0e7c80&sideNums=0e7c80&currStreakLabel=108c92&sideLabels=108c92&dates=0c686c">
 </p>
