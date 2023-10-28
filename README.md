@@ -44,6 +44,14 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 
 ---
 
+<p align="center">
+    <a href="https://github.com/Le0X8/additional-readme-stats"><picture>
+        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=Coding%20Time&hide=other&bg_color=ffffff">
+    </picture></a>
+</p>
+
+---
+
 Blog: [my.name.is.leox.dev](https://my.name.is.leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/best" style="height: 1em; transform: translateY(0.2em);" />
 
 Reddit: [u/Le0_X8](https://www.reddit.com/u/Le0_X8) <img src="https://cdn.le0x8.de/chess/icons/mistake" style="height: 1em; transform: translateY(0.2em);" />
