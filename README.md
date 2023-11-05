@@ -46,9 +46,9 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/recents/html?username=ji431f2ja6vyczqq0eatna6jb"><picture>
-        <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&logo_color=green" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&logo_color=green" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=Recently%20heared%20tracks&logo_color=green&bg_color=ffffff">
+        <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&logo=logo&logo_color=green" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&logo=logo&logo_color=green" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=Recently%20heared%20tracks&logo=logo&logo_color=green&bg_color=ffffff">
     </picture></a>
 </p>
 
