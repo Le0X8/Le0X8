@@ -16,10 +16,6 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
     <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/HSSPfile/specification">
             <img src="https://avatars.githubusercontent.com/HSSPfile?v=4&s=100" width="100px;" alt="HSSP"/>
-            <br>
-            <sub><b>
-                HSSP
-            </b></sub>
         </a>
     </td>
 </tr></table>
