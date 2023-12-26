@@ -1,6 +1,8 @@
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Le0X8&style=for-the-badge&label=views)
-![GitHub followers](https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers&logoColor=white)
-![GitHub User's stars](https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars&logoColor=white)
+<p align="center">
+    <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Le0X8&style=for-the-badge&label=views">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Le0X8?style=for-the-badge&logo=github&label=followers&logoColor=white">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars&logoColor=white">
+</p>
 
 # Hi! <img src="https://cdn.le0x8.de/chess/icons/book" style="height: 1em; transform: translateY(0.2em);" />
 
@@ -8,10 +10,24 @@ I'm LeoX DEV :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 
 
 Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
 
+### My biggest projects <img src="https://cdn.le0x8.de/chess/icons/brilliant" style="height: 1em; transform: translateY(0.2em);" />
+
+<table align="center"><tr>
+    <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/HSSPfile/specification">
+            <img src="https://avatars.githubusercontent.com/HSSPfile?v=4&s=100" width="100px;" alt="HSSP"/>
+            <br>
+            <sub><b>
+                HSSP
+            </b></sub>
+        </a>
+    </td>
+</tr></table>
+
 ---
 
 <p align="right">
-    <img src="https://cdn.le0x8.de/chess/icons/brilliant" style="height: 1em; transform: translateY(0.2em);" />
+    <img src="https://cdn.le0x8.de/chess/icons/great_find" style="height: 1em; transform: translateY(0.2em);" />
 </p>
 
 <p align="center">
