@@ -13,9 +13,14 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
 ### My biggest projects <img src="https://cdn.le0x8.de/chess/icons/brilliant" style="height: 1em; transform: translateY(0.2em);" />
 
 <table align="center"><tr>
-    <td align="center" valign="top" width="14.28%">
+    <td align="center" width="14.28%">
         <a href="https://github.com/HSSPfile/specification">
             <img src="https://avatars.githubusercontent.com/HSSPfile?v=4&s=100" width="100px;" alt="HSSP"/>
+        </a>
+    </td>
+    <td align="center" width="14.28%">
+        <a href="https://github.com/Le0X8/additional-readme-stats">
+            Additonal README Stats
         </a>
     </td>
 </tr></table>
