@@ -6,7 +6,7 @@
 
 # Hi! <img src="https://cdn.le0x8.de/chess/icons/book" style="height: 1em; transform: translateY(0.2em);" />
 
-I'm LeoX DEV :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 1em; transform: translateY(0.2em);" />
+I'm Leo :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 1em; transform: translateY(0.2em);" />
 
 Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
 
