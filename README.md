@@ -62,27 +62,27 @@ Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/c
     <a href="https://armstats.leox.dev/spotify/current/html?username=ji431f2ja6vyczqq0eatna6jb&custom_title=Currently%20listening%20to"><picture>
         <source srcset="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: dark)" />
         <source srcset="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right">
     </picture></a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/recents/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8&custom_title=Recently%20heared%20tracks"><picture>
         <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&limit=8&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: dark)" />
         <source srcset="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&limit=8&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&custom_title=Recently%20heared%20tracks&limit=8&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&custom_title=Recently%20heared%20tracks&limit=8&logo_color=green&logo_position=bottom_right">
     </picture></a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/artists/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8"><picture>
         <source srcset="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5" media="(prefers-color-scheme: dark)" />
         <source srcset="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5">
+        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5">
     </picture></a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/tracks/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8"><picture>
         <source srcset="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: dark)" />
         <source srcset="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&limit=8&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&icon_color=0e7c80&limit=8&logo_color=green&logo_position=bottom_right">
     </picture></a>
 </p>
