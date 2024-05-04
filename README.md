@@ -4,33 +4,6 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Le0X8?style=for-the-badge&logo=github&label=stars&logoColor=white">
 </p>
 
-# Hi! <img src="https://cdn.le0x8.de/chess/icons/book" style="height: 1em; transform: translateY(0.2em);" />
-
-I'm Leo :) <img src="https://cdn.le0x8.de/chess/icons/good" style="height: 1em; transform: translateY(0.2em);" />
-
-Visit my website: [leox.dev](https://leox.dev/) <img src="https://cdn.le0x8.de/chess/icons/excellent" style="height: 1em; transform: translateY(0.2em);" />
-
-### My biggest projects <img src="https://cdn.le0x8.de/chess/icons/brilliant" style="height: 1em; transform: translateY(0.2em);" />
-
-<table align="center"><tr>
-    <td align="center" width="14.28%">
-        <a href="https://github.com/HSSPfile/specification">
-            <img src="https://avatars.githubusercontent.com/HSSPfile?v=4&s=100" width="100px;" alt="HSSP"/>
-        </a>
-    </td>
-    <td align="center" width="14.28%">
-        <a href="https://github.com/Le0X8/additional-readme-stats">
-            Additonal README Stats
-        </a>
-    </td>
-</tr></table>
-
----
-
-<p align="right">
-    <img src="https://cdn.le0x8.de/chess/icons/great_find" style="height: 1em; transform: translateY(0.2em);" />
-</p>
-
 <p align="center">
     <a href="https://github.com/Le0X8#user-activity-overview"><picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=Le0X8&show_icons=true&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=108c92&icon_color=0e7c80&hide_title=true&show=discussions_started,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
