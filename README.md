@@ -28,6 +28,11 @@
 ---
 
 <p align="center">
+    Normally, you would see my Spotify stats here, but I need to rewrite <a href="https://github.com/Le0X8/additional-readme-stats">Additional README stats</a> to run in a Cloudflare Pages environment.
+</p>
+
+<!--
+<p align="center">
     <a href="https://armstats.leox.dev/spotify/current/html?username=ji431f2ja6vyczqq0eatna6jb&custom_title=Currently%20listening%20to">
         <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right">
     </a>
@@ -47,3 +52,4 @@
         <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right">
     </a>
 </p>
+-->
