@@ -27,10 +27,7 @@
 </p>
 
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Le0X8?theme=dark&font=Space%20Grotesk&ext=activity">
-      <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?theme=light&font=Space%20Grotesk&ext=activity">
-    </picture>
+    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?font=Space%20Grotesk&ext=activity&sheets=https://gist.githubusercontent.com/Le0X8/3ffd45c71468f573b0bab8aa87721c42/raw/a56fbbc6b36bde4dd2246b091d7685d43604461d/theme.css">
 </p>
 
 <!--
