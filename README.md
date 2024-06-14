@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?font=Space%20Grotesk&ext=activity&sheets=https://gist.githubusercontent.com/Le0X8/3ffd45c71468f573b0bab8aa87721c42/raw/a56fbbc6b36bde4dd2246b091d7685d43604461d/theme.css">
+    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?font=Space%20Grotesk&ext=activity&sheets=https%3A%2F%2Fgist.githubusercontent.com%2FLe0X8%2F3ffd45c71468f573b0bab8aa87721c42%2Fraw%2F0e07f4f1fc0f0bee89f56401cf43de0c7dfb627e%2Ftheme.css">
 </p>
 
 <!--
