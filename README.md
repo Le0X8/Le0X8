@@ -21,16 +21,16 @@
 </p>
 
 <p align="center">
+    <a href="https://wakatime.com/@Le0_X8">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=007e85&custom_title=Coding%20Time&hide=other">
+    </a>
+</p>
+
+<p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Le0X8?theme=dark&font=Space%20Grotesk&ext=activity">
       <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?theme=light&font=Space%20Grotesk&ext=activity">
     </picture>
-</p>
-
-<p align="center">
-    <a href="https://wakatime.com/@Le0_X8">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=007e85&custom_title=Coding%20Time&hide=other">
-    </a>
 </p>
 
 <!--
