@@ -19,17 +19,28 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le0X8&theme=transparent&hide_border=true&border_radius=0&date_format=j.m.Y&stroke=23aeb5&ring=23aeb5&fire=23aeb5&currStreakNum=23aeb5&sideNums=23aeb5&currStreakLabel=23aeb5&sideLabels=23aeb5&dates=23aeb5">
     </a>
 </p>
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Le0X8?theme=dark&font=Space%20Grotesk&ext=activity">
+      <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?theme=light&font=Space%20Grotesk&ext=activity">
+    </picture>
+</p>
+
 <p align="center">
     <a href="https://wakatime.com/@Le0_X8">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=007e85&custom_title=Coding%20Time&hide=other">
     </a>
 </p>
 
+<!--
 ---
 
 <p align="center">
     Normally, you would see my Spotify stats here, but I need to rewrite <a href="https://github.com/Le0X8/additional-readme-stats">Additional README stats</a> to run in a Cloudflare Pages environment.
 </p>
+
+-->
 
 <!--
 <p align="center">
