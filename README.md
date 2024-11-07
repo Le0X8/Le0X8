@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>
-    I use Arch btw <!-- since 30/06/2024 -->
+    <!-- I use Arch btw --><!-- since 30/06/2024 -->STAR stack: SvelteKit, TypeScript, Arch Linux, Rust
 </b></p>
 
 <p align="center">
