@@ -4,9 +4,9 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Le0X8?style=for-the-badge&label=stars&color=23aeb5">
 </p>
 
-<p align="center"><b>
+<p align="center">
     <!-- I use Arch btw --><!-- since 30/06/2024 -->✨ <b>STARS</b> ✨ stack: SvelteKit, TypeScript, Arch Linux, Rust, SQLite
-</b></p>
+</p>
 
 <p align="center">
     <a href="https://github.com/Le0X8#user-activity-overview">
