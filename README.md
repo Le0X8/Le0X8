@@ -29,12 +29,13 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Le0_X8&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=007e85&custom_title=Coding%20Time&hide=other">
     </a>
 </p>
-
+<!--
 <p align="center">
     <a href="https://leetcode.com/u/Le0X8">
         <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Le0X8?ext=activity&sheets=https%3A%2F%2Fgist.githubusercontent.com%2FLe0X8%2F3ffd45c71468f573b0bab8aa87721c42%2Fraw%2F0e07f4f1fc0f0bee89f56401cf43de0c7dfb627e%2Ftheme.css">
     </a>
 </p>
+-->
 
 <!--
 <p align="center">
