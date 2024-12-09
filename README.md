@@ -59,3 +59,7 @@
     </a>
 </p>
 -->
+
+<p align="center">
+    <small>XMR: 42VjT4TEh41Xmi8FpEbV9cMGoiEVispvF4m5GhaSw1HWF4VyGKfjx7tFVWhYJoQJfnhau57owVBBabp1MZSzXJ7fCTrgc2N</small>
+</p>
