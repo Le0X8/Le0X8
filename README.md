@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <!-- I use Arch btw --><!-- since 30/06/2024 -->✨ <b>STARS</b> ✨ stack: SvelteKit, TypeScript, Arch Linux, Rust, SQLite
+    <!-- I use Arch btw --><!-- since 30/06/2024 --><!--✨ <b>STARS</b> ✨ stack: SvelteKit, TypeScript, Arch Linux, Rust, SQLite-->
 </p>
 
 <p align="center">
