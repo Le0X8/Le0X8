@@ -39,22 +39,22 @@
 
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/current/html?username=ji431f2ja6vyczqq0eatna6jb&custom_title=Currently%20listening%20to">
-        <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb">
     </a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/recents/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8&custom_title=Recently%20heared%20tracks">
-        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&custom_title=Recently%20heared%20tracks&limit=8&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/recents?username=ji431f2ja6vyczqq0eatna6jb">
     </a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/artists/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8">
-        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5">
+        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb">
     </a>
 </p>
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/tracks/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8">
-        <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right">
+        <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb">
     </a>
 </p>
 
