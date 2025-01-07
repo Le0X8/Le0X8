@@ -37,6 +37,8 @@
 </p>
 -->
 
+---
+
 <p align="center">
     <a href="https://armstats.leox.dev/spotify/current/html?username=ji431f2ja6vyczqq0eatna6jb&custom_title=Currently%20listening%20to">
         <img src="https://armstats.leox.dev/spotify/current?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&custom_title=Currently%20listening%20to&logo_color=green&logo_position=bottom_right">
@@ -57,6 +59,8 @@
         <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right">
     </a>
 </p>
+
+---
 
 <p align="center">
     <sub><b>XMR:</b> 42VjT4TEh41Xmi8FpEbV9cMGoiEVispvF4m5GhaSw1HWF4VyGKfjx7tFVWhYJoQJfnhau57owVBBabp1MZSzXJ7fCTrgc2N</sub>
