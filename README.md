@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-    <sub><b>XMR:</b> 42VjT4TEh41Xmi8FpEbV9cMGoiEVispvF4m5GhaSw1HWF4VyGKfjx7tFVWhYJoQJfnhau57owVBBabp1MZSzXJ7fCTrgc2N</sub>
+    <b>XMR:</b> 42VjT4TEh41Xmi8FpEbV9cMGoiEVispvF4m5GhaSw1HWF4VyGKfjx7tFVWhYJoQJfnhau57owVBBabp1MZSzXJ7fCTrgc2N
 </p>
