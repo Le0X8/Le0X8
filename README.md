@@ -51,8 +51,8 @@
 </p>
 <p align="center">-->
     <a href="https://armstats.leox.dev/spotify/artists/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8">
-        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5">
-    </a><!--
+        <img src="https://armstats.leox.dev/spotify/artists?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right&inner_border_radius=27.5"><!--
+    --></a><!--
 </p>
 <p align="center">-->
     <a href="https://armstats.leox.dev/spotify/tracks/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8">
