@@ -1,4 +1,14 @@
-<h1 align="center">JAAA ICH HAB ABI</h1>
+<h1 align="center">Hi, I'm Leo! :)</h1>
+
+<p>
+    I build fast, reliable web apps from frontend to backend – and I’m not afraid to go low-level when needed. Whether you're looking for a fullstack developer or someone to dig into technical depths, I’m here to help.
+</p>
+
+<p align="center">
+    <a href="https://lesinski.cc/">Visit my website!</a>
+</p>
+
+<hr />
 
 <p align="center">
     <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Le0X8&style=for-the-badge&label=views&color=23aeb5">
