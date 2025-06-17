@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Leo! :)</h1>
 
-<p>
-    I build fast, reliable web apps from frontend to backend – and I’m not afraid to go low-level when needed. Whether you're looking for a fullstack developer or someone to dig into technical depths, I’m here to help.
-</p>
+I build fast, reliable web apps from frontend to backend – and I’m not afraid to go low-level when needed. Whether you're looking for a fullstack developer or someone to dig into technical depths, I’m here to help.
 
 <p align="center">
-    <a href="https://lesinski.cc/">Visit my website!</a>
+    <a href="https://lesinski.cc/" target="_blank">Visit my website!</a>
 </p>
 
 <hr />
