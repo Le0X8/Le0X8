@@ -23,14 +23,3 @@ I build fast, reliable web apps from frontend to backend – and I’m not afrai
         <img src="https://github-readme-stats.vercel.app/api?username=Le0X8&show_icons=true&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </a>
 </p>
-<p align="center">-->
-    <a href="https://armstats.leox.dev/spotify/tracks/html?username=ji431f2ja6vyczqq0eatna6jb&limit=8">
-        <img src="https://armstats.leox.dev/spotify/tracks?username=ji431f2ja6vyczqq0eatna6jb&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&limit=8&logo_color=green&logo_position=bottom_right">
-    </a>
-</p>
-
----
-
-<p align="center">
-    <b>XMR:</b> 42VjT4TEh41Xmi8FpEbV9cMGoiEVispvF4m5GhaSw1HWF4VyGKfjx7tFVWhYJoQJfnhau57owVBBabp1MZSzXJ7fCTrgc2N
-</p>
