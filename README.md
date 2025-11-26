@@ -10,8 +10,10 @@
     <!-- I use Arch btw --><!-- since 30/06/2024 --><!--✨ <b>STARS</b> ✨ stack: SvelteKit, TypeScript, Arch Linux, Rust, SQLite-->
 </p>
 
+<!-- down as of 2025/11/26
 <p align="center">
     <a href="https://github.com/Le0X8#user-activity-overview">
         <img src="https://github-readme-stats.vercel.app/api?username=Le0X8&show_icons=true&theme=transparent&border_radius=0&hide_border=true&title_color=23aeb5&text_color=23aeb5&icon_color=23aeb5&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </a>
 </p>
+-->
